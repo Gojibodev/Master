@@ -1,5 +1,5 @@
 <Version: 1.1>
-/img/boi.png https://www.dropbox.com/s/pdvf8do9aygnxxu/good%20boi.png?dl=1
+/img/boi.png https://drive.google.com/uc?export=download&id=10dAvKFIPUqY6SJW-zCWN0kiEM29lnyBo
 <End of Version>
 
 <Version: 1.02>
