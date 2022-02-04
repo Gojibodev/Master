@@ -1,4 +1,4 @@
 <Version: 1.03>
-/img/ https://www.dropbox.com/s/pdvf8do9aygnxxu/good%20boi.png?dl=1
+/img/boi.png https://www.dropbox.com/s/pdvf8do9aygnxxu/good%20boi.png?dl=1
 <End of Version>
 
